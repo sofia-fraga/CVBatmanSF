@@ -1,0 +1,18 @@
+/*header*/
+header{text-align:center}
+/*header*/
+/*section*/
+h1,h2{font-family:'Times New Roman', Times, serif; font-style:normal; 
+    font-weight:bold; 
+    font-size: 35px; 
+    line-height: 43px; 
+    background-color:#C4C4C4;
+    text-transform:uppercase;
+    color:#005677;
+    text-align:"center";
+}
+h1{line-heigh:60px;
+    font-size:35px}
+h2{line-heigh:60px;
+font-size: 35px}
+/*section*/
