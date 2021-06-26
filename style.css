@@ -1,18 +1,54 @@
 /*header*/
-header{text-align:center}
-/*header*/
 /*section*/
-h1,h2{font-family:'Times New Roman', Times, serif; font-style:normal; 
-    font-weight:bold; 
-    font-size: 35px; 
-    line-height: 43px; 
-    background-color:#C4C4C4;
-    text-transform:uppercase;
-    color:#005677;
-    text-align:"center";
+#logo {
+    background-color: #E5E5E5;
 }
-h1{line-heigh:60px;
-    font-size:35px}
-h2{line-heigh:60px;
-font-size: 35px}
+/*section*/
+header{
+    text-align:center;
+    background-color: #C4C4C4;
+    }
+/*header*/
+/*main*/
+h1{
+    height:60px;
+    font-size:35px;
+    font-weight: 500;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    color: #005677;
+    text-transform: uppercase;
+    }
+/*datos personales*/
+.secciones{
+    font-size: 20px;
+    height:30px;
+    width:1041px;
+    font-family:'Times New Roman';
+    font-weight: 700;
+    font-style: normal;
+    background-color:#C4C4C4;
+    color: #005677;
+    text-transform: uppercase;
+    }
+.cursiva {
+    font-style: italic;
+    font-weight: bold;
+}
+.negrita {
+    font-weight: bold;
+}
+/*datos personales*/
+ 
+.pie {
+    height:37px;
+    background-color: #005677;
+    color: white;
+    font-size: 20px;
+    font-family:'Times New Roman';
+    font-weight: 700;
+    font-style: normal; 
+    text-transform: uppercase;
+}
+
 /*section*/
